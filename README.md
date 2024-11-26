@@ -1,7 +1,7 @@
 ## Hello everyone 👋 I'm Jagad
 
-# 💫 Short About Me:
-👥 My Portfolio https://portfoliojagadw.vercel.app<br>🤝 I’m looking to collaborate as Web Developer<br>💬 Feel free to ask me!
+I have an interest in programming and learn about technological advances.
+👥 My Portfolio https://portfoliojagadw.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadwcksn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadwww) 
