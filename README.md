@@ -1,6 +1,5 @@
 ## Hello everyone 👋 I'm Jagad
 
-I have an interest in programming and learn about technological advances.<br>
 👥 My Portfolio https://portfoliojagadw.vercel.app
 
 ## 🌐 Socials:
