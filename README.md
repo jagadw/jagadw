@@ -1,6 +1,6 @@
 ## Hello everyone 👋 I'm Jagad
 
-I'm an Information Technology student, who's passionate about tech and always curious to learn something new. I enjoy exploring things like web development, cybersecurity and anything about tech.
+I'm an Information Technology student, who's passionate about technology and always curious to learn something new. I enjoy exploring things like web development, cybersecurity and anything about tech.
 
 ## 🌐 Socials:
 [![Linked In](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jagadw)
