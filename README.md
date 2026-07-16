@@ -1,8 +1,8 @@
-## Hello everyone 👋 I'm Jagad
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFF&center=true&vCenter=true&width=500&height=70&lines=Hello+everyone!;I'm+Jagad;An+IT+Student;Cybersecurity;And;Software+Developer" alt="Typing Animation" />
+</div>
 
-I'm an Information Technology student, who's passionate about technology and always curious to learn something new. I enjoy exploring things like web development, cybersecurity and anything about tech.
-
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![Linked In](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jagadw)
 
 <!--
@@ -13,8 +13,8 @@ I'm an Information Technology student, who's passionate about technology and alw
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jagadw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jagadw&theme=dark&hide_border=false)<br/>
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadw&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
